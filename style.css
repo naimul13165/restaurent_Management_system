@@ -1,0 +1,29 @@
+.text-area1 {}
+
+.navigation-area {
+    width: 100%;
+    background-color: red;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    padding: 30px;
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+}
+
+body {
+    width: 100%;
+    height: 20vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(img/burger-french-fries-hamburger-wallpaper-thumb.jpg);
+}
